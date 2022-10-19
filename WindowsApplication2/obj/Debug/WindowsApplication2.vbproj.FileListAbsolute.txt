@@ -1,0 +1,86 @@
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\oscar\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Productos.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Principal.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Provedores.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Inventario.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Catalogo.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Directorio.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Express.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Ganancias.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Stock.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Ventas.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojAssemblyReference.cache
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Catalogo.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Directorio.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Express.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Ganancias.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Inventario.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Principal.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Productos.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Provedores.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Stock.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Ventas.resources
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.cache
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Estacion-6\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Catalogo.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Directorio.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Express.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Ganancias.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Inventario.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Principal.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Productos.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Provedores.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Stock.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Ventas.resources
+D:\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Catalogo.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Directorio.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Express.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Ganancias.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Inventario.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Principal.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Productos.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Provedores.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Stock.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Ventas.resources
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.factura.resources
